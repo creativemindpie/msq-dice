@@ -14,7 +14,7 @@
 	"styles": [
 		"./css/szimfonia.css"
 	],
-	"url": "https://github.com/JiDW/FVTT-Szimfonia",
-	"manifest": "https://raw.githubusercontent.com/JiDW/FVTT-Szimfonia/master/module.json",
-	"download": "https://raw.githubusercontent.com/JiDW/FVTT-Szimfonia/master/fvtt-szimfonia.zip"
+	"url": "https://github.com/creativemindpie/msq-dice",
+	"manifest": "https://raw.githubusercontent.com/creativemindpie/msq-dice/master/module.json",
+	"download": "https://raw.githubusercontent.com/creativemindpie/msq-dice/master/msq-dice.zip"
 }
