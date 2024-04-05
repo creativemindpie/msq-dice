@@ -1,0 +1,20 @@
+{
+	"name": "msq-dice",
+	"title": "MSQ Custom Dice",
+	"description": "Adds the super awesome MSQ dice!",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "10",
+		"verified": "12.316"
+	},
+	"author": "Tek",
+	"esmodules": [
+		"./modules/msq.js"
+	],
+	"styles": [
+		"./css/szimfonia.css"
+	],
+	"url": "https://github.com/JiDW/FVTT-Szimfonia",
+	"manifest": "https://raw.githubusercontent.com/JiDW/FVTT-Szimfonia/master/module.json",
+	"download": "https://raw.githubusercontent.com/JiDW/FVTT-Szimfonia/master/fvtt-szimfonia.zip"
+}
