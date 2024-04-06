@@ -2,7 +2,7 @@
 	"name": "msq-dice",
 	"title": "MSQ Custom Dice",
 	"description": "Adds the super awesome MSQ dice!",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"compatibility": {
 		"minimum": "10",
 		"verified": "12.316"
